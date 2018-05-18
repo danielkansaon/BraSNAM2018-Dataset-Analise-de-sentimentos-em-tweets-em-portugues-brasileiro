@@ -5,7 +5,7 @@ O repositório contém os dados usados no trabalho "Análise de Sentimentos em �
 
 Este trabalho apresentou uma metodologia para comparar técnicas que classificam sentimentos expressos diretamente ou indiretamente em tweets no idioma português brasileiro. Os resultados apresentados são promissores ao classificar sentimentos distintos, pois o melhor classificador alcança 85% de acerto. Por outro lado, relações entre sentimentos próximos apresentam resultados inferiores a 70% de acerto.
 
-<b>Metodologia</b>
+<b>Detalhes</b>
 
 Foi utlizado o SQL Server 2012 para armazenamento dos dados. 
 
