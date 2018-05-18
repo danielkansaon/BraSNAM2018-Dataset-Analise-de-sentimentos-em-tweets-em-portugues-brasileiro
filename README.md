@@ -5,4 +5,6 @@ Foi utlizado o SQL Server 2012 para armazenamento dos dados.
 
 No repositório é disponibilizado o script "DDL_Criacao_Tabela_Com_Todos_Dados", onde contém a instrução de criação da tabela juntamente com a inserção de todos os dados. Assim, para obter os dados, basta executar o script "DDL_Criacao_Tabela_Com_Todos_Dados".
 
-Os dados disponibilizados já estão pré-processados para as análises feitas no trabalho. Assim, os principais emojis contidos nos tweets foram substituídos por palavras-chave, exemplo: O emoji ❤ foi substituído pela palavra ECoracao.
+É importante ressaltar que os dados disponibilizados já passaram por alguns processamentos apresentados no trabalho. Assim, os principais emojis contidos nos tweets foram substituídos por palavras-chave, exemplo: O emoji ❤ foi substituído pela palavra ECoracao. 
+
+A coleta dos dados foi feita entre os meses de agosto e outubro de 2017, contando com 12.814 tweets coletados ao todo. Com a remoção de tweets com textos repetidos, restaram 11.513 disponibilizdos no script "DDL_Criacao_Tabela_Com_Todos_Dados".
